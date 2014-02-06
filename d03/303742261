@@ -1,4 +1,7 @@
 <HTML>
+<script language="JavaScript" type="text/javascript">
+alert("Modificacion de Israel Garcia Herrera");
+</script>
 <HEAD>
 <TITLE>Ejemplo hola mundo/<TITLE>
 </HEAD>
