@@ -1,0 +1,9 @@
+207007302 Macias Sanchez Christofer Samuel
+208091714 Rizo Orozco Javier Agust�n
+207503997 Israel Garcia Herrera
+303742261 Peña Contreras Juan Alberto
+<<<<<<< HEAD
+207029918 Braulio Alvarado Gonzalez
+=======
+206535133 Solis Gonzalez Cesar Rodrigo
+>>>>>>> 4febfd630d92b5f6d772f3e678a9a82f46e75599
