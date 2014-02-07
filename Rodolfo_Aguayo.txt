@@ -1,0 +1,3 @@
+Rodolfo Aguayo Carbajal
+
+Git puede ser configurado para que ignore ciertos archivos y directorios. Esta configuración es realizada mediante el archivo .gitignore. Git también ofrece la configuración global core.excludefile para especificar de manera global qué patrones ignorar.
